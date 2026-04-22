@@ -43,9 +43,9 @@ const SONGS = [
   },
   {
     id: "7",
-    title: "Vapor Trail",
-    artist: "Synthwave Collective",
-    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    title: "i have no friends",
+    artist: "s0rrow",
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends.mp3",
     cover: "https://images.unsplash.com/photo-1507400492013-162706c8c05e?w=300&h=300&fit=crop"
   },
   {
