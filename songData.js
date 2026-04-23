@@ -49,17 +49,15 @@ const SONGS = [
   },
   {
     id: "8",
-    title: "Neon Cascade",
-    artist: "Digital Aurora",
-    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
-    cover: "https://images.unsplash.com/photo-1519638399535-1b036603ac77?w=300&h=300&fit=crop"
+    title: "im not alright",
+    artist: "s0rrow",
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/im%20not%20alright_spotdown.org.mp3"
   },
   {
     id: "9",
-    title: "Aurora Borealis",
-    artist: "Cosmic Waves",
-    audio: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
-    cover: "https://images.unsplash.com/photo-1531366936337-7c912a4589a7?w=300&h=300&fit=crop"
+    title: "stalk ur socials",
+    artist: "s0rrow",
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/stalk%20ur%20socials_spotdown.org.mp3"
   },
   {
     id: "10",
