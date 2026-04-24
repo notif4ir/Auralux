@@ -45,7 +45,8 @@ const SONGS = [
     id: "7",
     title: "i have no friends",
     artist: "s0rrow",
-    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends_spotdown.org.mp3"
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends_spotdown.org.mp3",
+    cover: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends_spotdown.org.mp3"
   },
   {
     id: "8",
