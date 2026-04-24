@@ -46,19 +46,21 @@ const SONGS = [
     title: "i have no friends",
     artist: "s0rrow",
     audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends_spotdown.org.mp3",
-    cover: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/i%20have%20no%20friends_spotdown.org.mp3"
+    cover: "https://github.com/notif4ir/Auralux/blob/main/songCovers/artworks-kmXHQItKlQwLjhsI-y91Klw-t500x500.jpg?raw=true"
   },
   {
     id: "8",
     title: "im not alright",
     artist: "s0rrow",
-    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/im%20not%20alright_spotdown.org.mp3"
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/im%20not%20alright_spotdown.org.mp3",
+    cover: "https://github.com/notif4ir/Auralux/blob/main/songCovers/ab67616d00001e02fead43bd2d7c3514962db649.jpg?raw=true"
   },
   {
     id: "9",
     title: "stalk ur socials",
     artist: "s0rrow",
-    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/stalk%20ur%20socials_spotdown.org.mp3"
+    audio: "https://github.com/notif4ir/Auralux/raw/refs/heads/main/songs/stalk%20ur%20socials_spotdown.org.mp3",
+    cover: "https://github.com/notif4ir/Auralux/blob/main/songCovers/3000x3000bb.jpg?raw=true"
   },
   {
     id: "10",
